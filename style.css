@@ -2,17 +2,69 @@
 
 .centered{
   text-align:center;
-  }
+}
 
 .column{
   display:inline-block;
-  }
+}
+
+.lists{
+  background-color:#E9EEF0;
+  padding-left:1%;
+  padding-right:1%;
+  margin-left:1%;
+  margin-bottom:1%;
+  border-radius:5%;
+  border: 3px solid black;
+  vertical-align:middle;
+}
+
+.section{
+  display:block;
+  border-radius:5%;
+}
+
+.section-name{
+  background-color:#F08F91;
+  margin: 1% 1% 1% 1%;
+  border-radius:100%;
+}
 
 /* Elements */
 
-img{
+/* Img element below is stylized internally in the .html file. */
+
+/* img{
   width:15%;
-  height:10%;}
+  height:15%;
+} */
+
+body{
+  background-color:#F5F0E9;
+}
+
+/* Header element below is stylized in-line in the .html file. */
+
+/* header{
+  background-color:#B0F9A1;
+  border-radius:25%;
+} */
+
+pantry{
+  background-color:#F0AF53;
+}
+
+fridge{
+  background-color:#9ED7F0;
+}
+
+freezer{ 
+  background-color:#8EA2F0;
+}
+
+countertop{
+  background-color:#F0E7B6;
+}
 
 /* IDs */
 
