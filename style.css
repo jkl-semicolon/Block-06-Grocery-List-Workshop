@@ -1,0 +1,18 @@
+/* Classes */
+
+.centered{
+  text-align:center;
+  }
+
+.column{
+  display:inline-block;
+  }
+
+/* Elements */
+
+img{
+  width:15%;
+  height:10%;}
+
+/* IDs */
+
